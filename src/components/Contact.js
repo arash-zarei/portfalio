@@ -7,7 +7,7 @@ import { fadeIn } from "../variants";
 
 const Contact = () => {
   return (
-    <div className="py-16 lg:section" id="contact">
+    <div className="py-16 mb-32 lg:section" id="contact">
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row">
           {/* text */}
