@@ -35,7 +35,7 @@ const Work = () => {
               <button className="btn btn-sm">View All Projects</button>
             </div>
             {/* image */}
-            <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl:">
+            <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
               <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
               {/* img */}
               <img
@@ -58,7 +58,7 @@ const Work = () => {
             viewport={{ once: false, amount: 0.7 }}
             className="flex-1 gap-y-10 flex flex-col"
           >
-            <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl:">
+            <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
               <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
               {/* img */}
               <img
@@ -73,7 +73,7 @@ const Work = () => {
                 <span className="text-3xl text-white">News Web</span>
               </div>
             </div>
-            <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl:">
+            <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
               <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
               {/* img */}
               <img
